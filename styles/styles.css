@@ -1,11 +1,5 @@
-p {
-    font-weight: 500;
-}
+body{
 
-button {
-    background-color: white;
-    border: 2px solid rgb(151, 151, 151);
-    border-radius: 50px;
 }
 
 nav{
@@ -20,13 +14,39 @@ nav{
     align-items: flex-start;
 }
 
-.navrechts{
+.navrechts {
     display: flex;
     justify-content: flex-end;
     align-items: center;
     gap: 15px;
 }
 
-.hero{
-    margin-top: 400px;
+main{
+    display: grid;
+    grid-template-columns: 1fr;
+
+}
+
+.eerstedeel{
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+.search-bar{
+    justify-content: start;
+}
+
+
+
+
+
+dl{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    
+}
+
+.background{
+    background-color: lightgray;
 }

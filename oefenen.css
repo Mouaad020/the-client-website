@@ -1,0 +1,123 @@
+p {
+    font-weight: 500;
+}
+
+button {
+    background-color: white;
+    border: 2px solid rgb(151, 151, 151);
+    border-radius: 50px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+
+    @media (min-width: 480px) {
+        nav {
+            flex-direction: row;
+            /* logo links, navrechts rechts */
+            justify-content: space-between;
+            /* ruimte ertussen */
+            align-items: center;
+            /* netjes verticaal gecentreerd */
+        }
+
+    }
+}
+
+.navlinks {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+
+
+    @media (min-width: 480px) {
+        flex-direction: column;
+        /* logo boven tekst */
+    }
+
+}
+
+.navrechts {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 15px;
+
+
+    @media (min-width: 480px) {
+        justify-content: flex-end;
+        /* inhoud rechts */
+        width: 100%;
+        /* neemt hele regel zodat 'rechts' ook echt rechts is */
+    }
+
+}
+
+
+
+.search-bar{
+
+    flex-direction: column;
+        /* input en knop onder elkaar */
+        width: 100%;
+
+    @media (min-width: 480px) {
+        flex-direction: column;
+        /* input en knop onder elkaar */
+        width: 100%;
+    }
+}
+
+
+.hero {
+    margin-top: 400px;
+    
+    
+    @media (min-width: 480px) {
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-template-rows: repeat(3,1fr);
+
+}}
+
+    
+main {
+        display: flex;
+        justify-content: center;
+        /* center horizontaal */
+        margin-top: 50px;
+        /* pas eventueel aan, geen groot negatief getal */
+}
+
+.strik-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* horizontaal centreren */
+    position: relative;
+    /* nodig voor top/right verschuiving */
+    right: -200px;
+    /* schuift container naar rechts */
+    top: -550px;
+    /* schuift container omhoog */
+
+
+.strik {
+    display: block;
+    width: 800px;
+
+}
+}
+
+.strik-background {
+    width: 800px;
+    height: 500px;
+    background-color: lightgray;
+}
+
+
+
+
