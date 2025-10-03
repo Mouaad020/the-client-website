@@ -1,8 +1,6 @@
-body{
+body {}
 
-}
-
-nav{
+nav {
     display: flex;
     justify-content: space-between;
 }
@@ -21,32 +19,48 @@ nav{
     gap: 15px;
 }
 
-main{
+main {
     display: grid;
     grid-template-columns: 1fr;
 
 }
 
-.eerstedeel{
+.eerstedeel {
     font-size: 16px;
     line-height: 1.4;
 }
 
-.search-bar{
+.search-bar {
     justify-content: start;
 }
 
-
-
-
-
-dl{
+dl {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
+
+}
+
+.background {
+    background-color: lightgray;
+}
+
+
+.derdedeel{
+display: grid;
+grid-template-columns: repeat(6, 1fr);
+}
+
+.footerkolom{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     
 }
 
-.background{
-    background-color: lightgray;
+.onderkant{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
