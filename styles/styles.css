@@ -1,4 +1,10 @@
-body {}
+body {
+    ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+}
 
 nav {
     display: flex;
@@ -16,7 +22,6 @@ nav {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    gap: 15px;
 }
 
 main {
@@ -25,42 +30,63 @@ main {
 
 }
 
-.eerstedeel {
+.hero {
     font-size: 16px;
     line-height: 1.4;
-}
-
 .search-bar {
     justify-content: start;
 }
 
-dl {
+}
+.products{
+    .background {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-
-}
-
-.background {
     background-color: lightgray;
+    margin-top: 0;
+    padding: 0;
+}
+
+.strik {
+    width: 100%;
+}
 }
 
 
-.derdedeel{
-display: grid;
-grid-template-columns: repeat(6, 1fr);
+
+
+
+footer{
+   .laatstesection {
+    background-color: #1E1E1E;
+    color: #FFFFFF;
 }
 
-.footerkolom{
-
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    
+.titel-list{
+    font-weight: bold;
 }
 
-.onderkant{
+.footernavigatie {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+
+}
+
+.legalpages {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    background-color: #1E1E1E;
+    color: #B3B3B3;
+
 }
+
+form {
+    background-color: #E6B600;
+} 
+}
+
+
