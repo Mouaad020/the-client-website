@@ -13,13 +13,35 @@ De instructie van deze leertaak staan in de [INSTRUCTIONS](https://github.com/fd
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
+## Intro
+
+
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+De project heeft een mobile view. De website is eerst op mobile gemaakt met 320px. 
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+Ik heb mobile first gewerkt
+Ik heb met grid en flex gewerkt
+grid:
+display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+flex:
+display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+Ik heb met sections gewerkt
+ <section class="hero">
+      <div>
+        <h1>I'm looking for a gift</h1>
+        <nav class="search-bar">
+          <input type="text" placeholder="I search a gift for a Dreamer">
+          <button type="button">🔍</button>
+        </nav>
+        <p class="community">+1M spotters • Join our community</p>
+      </div>
+    </section>
 
 
 
