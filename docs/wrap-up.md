@@ -9,7 +9,7 @@ Bij de workshop [Sprint Review](sprint-review.md) leer je hoe dat in zijn werk g
 Als je een sprint afsluit zorg er dan voor dat je *repository* een nette readme heeft. Dit kan je gebruiken voor de Sprint Review en daarna geef je de opdrachtgever de link naar je repo zodat die na de Sprint Review kan lezen en zien wat je hebt gemaakt.
 
 ### Readme
-Als mensen – opdrachtgevers, docenten, studenten of toekomstige werkgevers – jouw werk bekijken wordt eerst de readme gelezen om te begrijpen wat je gedaan hebt. Het is belangrijk om dit bestand heel duidelijk te schrijven.
+Als mensen – opdrachtgevers, docenten, studenten of toekomstige werkgevers – jouw werk bekijken worli eerst de readme gelezen om te begrijpen wat je gedaan hebt. Het is belangrijk om dit bestand heel duidelijk te schrijven.
 
 De readme is het eerste wat iemand ziet op GitHub. 
 In de Readme kan je uitleggen wat de opdracht is, wat je hebt gemaakt, je kan screenshots laten toevoegen en vertellen wie de website heeft genaakt. De readme is het uithangbord van het project.

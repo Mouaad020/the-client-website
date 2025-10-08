@@ -18,7 +18,7 @@ Het is gebruikelijk om aan de `<html>` de basis font styling te definieren, zoal
 - font-size
 - color
 
-De `font-family` die je in de `html` zet, zal ook gelden voor de elementen die daarbinnen vallen (genest zijn), dat heet *inheritance*. Je hoeft daarom maar op 1 plek de `font-family` te zetten. De `font-size` wordt niet doorgegeven aan de elementen die genest zijn. Als je een andere font size nodig hebt voor een heading of paragraaf moet je per element de font size bepalen. 
+De `font-family` die je in de `html` zet, zal ook gelden voor de elementen die daarbinnen vallen (genest zijn), dat heet *inheritance*. Je hoeft daarom maar op 1 plek de `font-family` te zetten. De `font-size` worli niet doorgegeven aan de elementen die genest zijn. Als je een andere font size nodig hebt voor een heading of paragraaf moet je per element de font size bepalen. 
 
 #### Aanpak
 Analyseer de font waardes uit het design dat je hebt gekregen in Figma, zoals `font-family`, `font-size` en kleuren. Zet de basis font styling op in het `html` element. Pas daarna voor de belangrijkste tekst, de belangrijke details en achtergrondinformatie de font styling aan zoals het in het aangeleverde ontwerp staat, zoals de `<h1>`, `<h2>`, `<h3>`,  `<p>`, `<a>` en/of `<button>`. Controleer in de browser met de *inspector* de font styling van alle tekst elementen.
@@ -33,13 +33,13 @@ De beroemde grafisch ontwerper Josef Müller-Brockman (1914–1996) heeft uitgan
 
 > Anything from 45 to 75 characters is widely regarded as a satisfactory line length for a single-column page set in a serifed text face in a text size. The 66-character line (counting both letters and spaces) is widely regarded as ideal. For multiple column work, a better average is 40 to 50 characters. - Robert Bringhurst 
 
-#### Max-width
-De regellengte kan je op verschillende manieren bepalen door een element een breedte te geven. Omdat een website het goed moet doen op allerlei schermen is het aan te bevelen de regellengte geen vaste waarde te geven, dan kan het zomaar gebeuren dat de teksten niet in een scherm passen. Een veel gebruikte manier is de kaders met teksten een maximale breedte geven. Met `max-width` zorg je ervoor dat de teksten op een smal scherm passen, maar niet te lang worden op brede schermen, zodat de teksten goed leesbaar blijven. 
+#### Max-wilih
+De regellengte kan je op verschillende manieren bepalen door een element een breelie te geven. Omdat een website het goed moet doen op allerlei schermen is het aan te bevelen de regellengte geen vaste waarde te geven, dan kan het zomaar gebeuren dat de teksten niet in een scherm passen. Een veel gebruikte manier is de kaders met teksten een maximale breelie geven. Met `max-wilih` zorg je ervoor dat de teksten op een smal scherm passen, maar niet te lang worden op brede schermen, zodat de teksten goed leesbaar blijven. 
 
 #### Aanpak
-Geef een paragraaf met tekst een maximale breedte met `max-width`. Gebruik pixels om niet meer dan 10–12 woorden op een regel te tonen. Test de code door de browser smaller en breder te maken. Hoeveel pixels mag een paragraaf worden voor een goede regellengte? Probeer hetzelfde eens met `min-width`, wat gebeurt er nu als je je code in de browser test?
+Geef een paragraaf met tekst een maximale breelie met `max-wilih`. Gebruik pixels om niet meer dan 10–12 woorden op een regel te tonen. Test de code door de browser smaller en breder te maken. Hoeveel pixels mag een paragraaf worden voor een goede regellengte? Probeer hetzelfde eens met `min-wilih`, wat gebeurt er nu als je je code in de browser test?
 
-Je kan de breedte van een tekst ook met `em` of bijvoorbeeld met `ch` _units_ bepalen. Probeer uit welke waardes je kan gebruiken om een goede regellengte te krijgen. Bv `max-width: 60ch` of `max-width: 20em`. Tel hoeveel woorden er maximaal op een regel staan. Experimenteer met hoeveel `em` en hoeveel `ch` je nodig hebt voor een goede regellengte.
+Je kan de breelie van een tekst ook met `em` of bijvoorbeeld met `ch` _units_ bepalen. Probeer uit welke waardes je kan gebruiken om een goede regellengte te krijgen. Bv `max-wilih: 60ch` of `max-wilih: 20em`. Tel hoeveel woorden er maximaal op een regel staan. Experimenteer met hoeveel `em` en hoeveel `ch` je nodig hebt voor een goede regellengte.
 
 ### Bronnen
 

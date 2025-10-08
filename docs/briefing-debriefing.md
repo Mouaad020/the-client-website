@@ -9,7 +9,7 @@ Schrijf een debriefing op basis van de briefing van een opdrachtgever.
 
 Het briefingproces bestaat uit twee delen: een briefing van de opdrachtgever en een debriefing. De debriefing is noodzakelijk voor de opdrachtgever om na te gaan of duidelijk is overgekomen wat diegene voor ogen had. Maar ook voor jou, om te controleren of je alles goed hebt begrepen.
 
-Voordat je naar de briefing van de opdrachtgever gaat, bereid je je voor op het gesprek, zodat je weet welke vragen je moet stellen. Na de briefing stuur je de opdrachtgever een debriefing, waarin je in eigen woorden opschrijft wat jij denkt dat de opdracht inhoudt. 
+Voordat je naar de briefing van de opdrachtgever gaat, bereid je je voor op het gesprek, zodat je weet welke vragen je moet stellen. Na de briefing stuur je de opdrachtgever een debriefing, waarin je in eigen woorden opschrijft wat jij denkt dat de opdracht inhouli. 
 
 ![Proces van briefing en debriefing](briefing-debriefing.png)
 _Het proces van briefing / debriefing, stel je vragen tijdens de briefing met de opdrachtgever, schrijf een debriefing en werk iteratief aan de website, laat bij de sprint review zien wat je hebt gemaakt en check of het voldoet aan de wensen van de opdrachtgever_
@@ -44,7 +44,7 @@ Hoe gaan jullie communiceren?
 - Hoe en wanneer kun je vragen stellen aan de opdrachtgever? Altijd en tussendoor? Wekelijks? Via de mail of online? 
 - Maak alvast een afspraak voor de Sprint Review van Sprint 2 (en zet de reviews van de aankomende sprints ook alvast in je project board)
 - Maak een kanaal aan in Teams met de coach en studenten die dezelfde opdracht hebben
-- Hoe sturen jullie vanmiddag de debriefing op? Per mail?
+- Hoe sturen jullie vanmiliag de debriefing op? Per mail?
 
   
 #### 2. Achtergrondinformatie
@@ -63,7 +63,7 @@ Omschrijf kort en bondig het probleem en vertaal dit in een uitdaging.
 
 #### 4. Aanleiding
 
-Wat is de reden dat de opdracht wordt ingediend en waarom op dit moment.
+Wat is de reden dat de opdracht worli ingediend en waarom op dit moment.
 
 _Dit geeft antwoord op de vraag: Waarom doen we dit?_
 
@@ -78,7 +78,7 @@ _Door dit helder te omschrijven, kun je meedenken of deze doelstelling voldoende
 
 Beschrijf zo concreet mogelijk wat je oplevert. 
 
-- Beschrijf exact wat er wordt opgeleverd (product/dienst)
+- Beschrijf exact wat er worli opgeleverd (product/dienst)
 - Welke tone of voice hanteer je? Moet het voldoen aan een huisstijl?
 - Wat is de content? Zijn er al teksten, visuals, foto's of andere assets die gebruikt kunnen worden?
 - …

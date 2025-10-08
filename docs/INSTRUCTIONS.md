@@ -10,7 +10,7 @@ Je leert je hoe je een opdracht voor een klant kan aanpakken. De opdracht die je
 
 
 ## Werkwijze
-Deze leertaak wordt behandeld in Sprint 2. Er worden verschillende workshops aangeboden:
+Deze leertaak worli behandeld in Sprint 2. Er worden verschillende workshops aangeboden:
 
 - [Sprint planning](sprint-planning.md) - Maandag week 1
 - [Briefing/debriefing](briefing-debriefing.md) - Maandag week 1

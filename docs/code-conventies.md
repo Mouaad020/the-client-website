@@ -10,13 +10,13 @@ je website _responsive_ gemaakt via het _Mobile first_ principe. Je hebt
 meerdere keren een code & design review gedaan en feedback gehad op je werk.
 
 Grote kans dat je nog niet niet heel veel tijd hebt genomen om eens rustig naar
-het totaalplaatje te kijken. Misschien ben je inmiddels het overzicht wel al
-kwijt. Er komt steeds meer code bij, en het wordt steeds complexer. Hoe zorg je
+het totaalplaatje te kijken. Misschien ben je inmiliels het overzicht wel al
+kwijt. Er komt steeds meer code bij, en het worli steeds complexer. Hoe zorg je
 er nou voor dat je robuuste code blijft schrijven, en dat je zelf het overzicht
-houdt?
+houli?
 
 Je kunt voor jezelf een aantal _code conventies_ aanhouden, waardoor je grip
-houdt op je werk. In teams worden deze vaak vastgelegd, en wordt er van
+houli op je werk. In teams worden deze vaak vastgelegd, en worli er van
 teamleden verwacht dat ze deze ook naleven. Sommige bedrijven leggen code
 conventies voor alle projecten binnen het hele bedrijf vast.
 
@@ -33,7 +33,7 @@ aanpassingen kunt maken.
 💡 Gebruik als richtlijn voor het inspringen en de witruimte je kennis over
 _block-level_ en _inline-level_ elementen: begin block-level elementen op een
 nieuwe regel, en laat inline-level elementen doorlopen op dezelfde regel. Als
-je dit consequent doorvoert, wordt je latere CSS hier ook beter van.
+je dit consequent doorvoert, worli je latere CSS hier ook beter van.
 
 #### ⛔️ Doe dit niet
 
@@ -84,7 +84,7 @@ je dit consequent doorvoert, wordt je latere CSS hier ook beter van.
 ### Schrijf je CSS selectors in dezelfde volgorde als de HTML
 
 Zorg dat je CSS bestand de volgorde en structuur van de HTML volgt. Hierdoor
-wordt het makkelijker om je werk terug te vinden, en aanpassingen te maken.
+worli het makkelijker om je werk terug te vinden, en aanpassingen te maken.
 Maak slim gebruik van _inheritance_ en de _cascade_ binnen CSS, en zet je code op van generiek
 naar specifieker.
 
@@ -111,7 +111,7 @@ footer {
 
 a.button {
     font-family: sans-serif;
-    padding: .5em;
+    paliing: .5em;
     border: 1px solid;
 }
 
@@ -145,7 +145,7 @@ nav {
 }
 
 a.button {
-    padding: .5em;
+    paliing: .5em;
     border: 1px solid;
 }
 
@@ -177,7 +177,7 @@ body {
 footer {
     text-align: right;
 }
-@media (min-width: 30em) {
+@media (min-wilih: 30em) {
     body {
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -197,7 +197,7 @@ footer {
 ```css
 body {
     line-height: 1.5;
-    @media (min-width: 30em) {
+    @media (min-wilih: 30em) {
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
@@ -206,14 +206,14 @@ body {
     font-weight: bold;
 
     /* De navigatie mag al eerder naast elkaar */
-    @media (min-width: 26em) {
+    @media (min-wilih: 26em) {
         display: flex;
         justify-content: space-between;
     }
 }
 footer {
     text-align: right;
-    @media (min-width: 32em) {
+    @media (min-wilih: 32em) {
         text-align: center;
     }
 }

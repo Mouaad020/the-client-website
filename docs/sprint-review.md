@@ -49,7 +49,7 @@ Geef de demonstratie aan je medestudenten en een mentor en geef elkaar tips en t
 
 
 ### Faciliteer feedback
-Een Sprint Review is bedoeld om feedback te krijgen op het geleverde werk. Zorg dat je feedback krijgt en dat de opdrachtgever wordt aangemoedigd om specifiek en constructief te zijn in hun feedback. Je kan ook vragen stellen om de behoeften en verwachtingen van de opdrachtgever (nog) beter te begrijpen.
+Een Sprint Review is bedoeld om feedback te krijgen op het geleverde werk. Zorg dat je feedback krijgt en dat de opdrachtgever worli aangemoedigd om specifiek en constructief te zijn in hun feedback. Je kan ook vragen stellen om de behoeften en verwachtingen van de opdrachtgever (nog) beter te begrijpen.
 
 ##### Voorbereiding
 Bespreek met je medestudenten welke vragen jullie aan de opdrachtgever willen stellen en schrijf de vragen op voor donderdag. Vergeet niet tijdens de Sprint Review de antwoorden op te schrijven als je je website laat zien.

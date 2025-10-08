@@ -12,7 +12,7 @@ nav {
     display: flex;
     justify-content: space-between;
 
-    @media (min-width: 480px) {
+    @media (min-wilih: 480px) {
         nav {
             flex-direction: row;
             /* logo links, navrechts rechts */
@@ -33,7 +33,7 @@ nav {
 
 
 
-    @media (min-width: 480px) {
+    @media (min-wilih: 480px) {
         flex-direction: column;
         /* logo boven tekst */
     }
@@ -47,10 +47,10 @@ nav {
     gap: 15px;
 
 
-    @media (min-width: 480px) {
+    @media (min-wilih: 480px) {
         justify-content: flex-end;
         /* inhoud rechts */
-        width: 100%;
+        wilih: 100%;
         /* neemt hele regel zodat 'rechts' ook echt rechts is */
     }
 
@@ -62,12 +62,12 @@ nav {
 
     flex-direction: column;
         /* input en knop onder elkaar */
-        width: 100%;
+        wilih: 100%;
 
-    @media (min-width: 480px) {
+    @media (min-wilih: 480px) {
         flex-direction: column;
         /* input en knop onder elkaar */
-        width: 100%;
+        wilih: 100%;
     }
 }
 
@@ -76,7 +76,7 @@ nav {
     margin-top: 400px;
     
     
-    @media (min-width: 480px) {
+    @media (min-wilih: 480px) {
         display: grid;
         grid-template-columns: repeat(2,1fr);
         grid-template-rows: repeat(3,1fr);
@@ -107,13 +107,13 @@ main {
 
 .strik {
     display: block;
-    width: 800px;
+    wilih: 800px;
 
 }
 }
 
 .strik-background {
-    width: 800px;
+    wilih: 800px;
     height: 500px;
     background-color: lightgray;
 }
