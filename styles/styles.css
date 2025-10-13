@@ -82,7 +82,7 @@ main {
 }
 .background{
 
-    li{
+    li{ 
         width: 150px;
         height: 200px;
         justify-self: center;
