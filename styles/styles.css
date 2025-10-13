@@ -13,12 +13,15 @@ body {
 nav {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 20px;
 }
 
     .button{
     font-size: 10px;
     width: 100px;
     height: 20px;
+    border-radius: 12px;
+    border-color:#B3B3B3 ;
     }
 
 .navlinks {
@@ -36,12 +39,6 @@ nav {
 
 
 
-
-
-
-
-
-
 main {
     display: grid;
     grid-template-columns: 1fr;
@@ -51,27 +48,53 @@ main {
 .hero {
     font-size: 16px;
     line-height: 1.4;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
 .search-bar {
-    justify-content: start;
+    justify-content: center;
 }
-
+.button2{
+    border-radius: 12px;
+    font-size: 10px;
+    border-color:#B3B3B3 ;
+}
+.search{
+    border-radius: 12px;
+}
 
 }
 .products{
     .background {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 5px;
     background-color: lightgray;
     margin-top: 0;
     padding: 0;
+    margin-bottom: 20px;
+    /* margin-left: 5px; */
 }
 
 .strik {
     width: 100%;
 }
-}
+.background{
 
+    li{
+        width: 150px;
+        height: 200px;
+        justify-self: center;
+        
+            img{
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+    } 
+}
+}
 
 
 
@@ -96,10 +119,7 @@ footer{
     
 
 }
-@media (min-width: 768px){
-    .footernavigatie{
-       grid-template-columns: repeat(6, 1fr);
-}
+
 
 
 
@@ -115,7 +135,10 @@ form {
     background-color: #E6B600;
     color: #FFFFFF;
 } 
-
+@media (min-width: 768px){
+    .footernavigatie{
+       grid-template-columns: repeat(6, 1fr);
+}
     
 
 }
